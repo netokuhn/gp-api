@@ -1,2 +1,2 @@
 # gp-api
-Api from an app to gastronomiaprudente profile on Instagram.
+Api from an app to @gastronomiaprudente profile on Instagram.
